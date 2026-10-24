@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "JJJ",
+    "JJJ",
+    "JJJ"
+  ],
+  "key": {
+    "J": { "item": "yomayo:mayo_jar" }
+  },
+  "result": {
+    "item": "yomayo:mayo_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "yomayo",
+  "version": "${version}",
+  "name": "Йомайо",
+  "description": "Банка майонеза, которая даёт суперспособности, и майонезный блок-батут.",
+  "authors": ["makarvoskre"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.yomayo.YomayoMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

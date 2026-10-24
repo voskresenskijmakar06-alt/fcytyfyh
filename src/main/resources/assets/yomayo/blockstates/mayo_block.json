@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "yomayo:block/mayo_block"
+    }
+  }
+}
